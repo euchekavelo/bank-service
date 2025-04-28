@@ -38,7 +38,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/bank-service.git
+git clone https://github.com/euchekavelo/bank-service.git
 cd bank-service
 ```
 
